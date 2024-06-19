@@ -1,7 +1,7 @@
 ﻿# projet_final_yummy
  
-Data Analytics Bootcamp
-Final Report 
+Data Analytics Bootcamp /
+Final Report /
 Yummy : Enhancing Cooking with Seasonal Vegetables across Europe
 
 For this project, which took place for a week from August 23 2023, I decided to link two of my interests : cooking and ecology.
