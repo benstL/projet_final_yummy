@@ -1,10 +1,6 @@
 ﻿# projet_final_yummy
  
-Data Analytics Bootcamp /
-Final Report /
-Yummy : Enhancing Cooking with Seasonal Vegetables across Europe
-
-For this project, which took place for a week from August 23 2023, I decided to link two of my interests : cooking and ecology.
+Yummy : Enhancing Cooking with Seasonal Vegetables across teh world
 
 The project aims to create a practical tool where users can select a European country / choose a month / vegatbles and or fruits ---> and find recipes that align with seasonal fruits and vegetables available during that time.
         
