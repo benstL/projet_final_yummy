@@ -2,7 +2,7 @@
  
 Yummy : Enhancing Cooking with Seasonal Vegetables across teh world
 
-The project aims to create a practical tool where users can select a European country / choose a month / vegatbles and or fruits ---> and find recipes that align with seasonal fruits and vegetables available during that time.
+The project aims to create a practical tool where users can select a European country / choose a month / vegetables and or fruits ---> and find recipes that align with seasonal fruits and vegetables available during that time.
         
 By utilizing data from Food.com, renowned for its comprehensive collection of recipes and user reviews, alongside seasonal data sourced from the EUFIC website, the tool offers personalized recipe recommendations based on these preferences.
 The idea is to predict / recommend recipes based on the user's selected country, month, and available seasonal fruits or vegetables. 
